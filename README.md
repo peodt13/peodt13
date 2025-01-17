@@ -1,9 +1,9 @@
 # Olá, me chamo Pedro Muniz ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou exercendo trabalhos para o SESI-SP no programa de bolsa de estudos ! 
+- 🔭 Exerci trabalhos para o SESI-SP no programa de bolsa de estudos ! 
   
-- 🌱 Atualmente estou cursando ADS na faculdade SENAI ! 
+- 🌱 Formado em ADS na faculdade SENAI ! 
   
 - 👯 Estou procurando realizar trabalhos importantes que possa mudar a vida das pessoas !
 
